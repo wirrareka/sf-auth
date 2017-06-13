@@ -1,6 +1,6 @@
 {
   "name": "sf-auth",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "User Management Library for Express.js apps",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "jwt",
     "soundfile"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wirrareka/sf-auth"
+  },
   "author": "Matej Drzik <matej@soundfile.io>, Soundfile.io",
   "license": "GPL-3.0",
   "dependencies": {
